@@ -16,7 +16,7 @@ This repo provides a simple, affordable ignition coil driver circuit, ideal for 
 1. Make the PCB
 1. Solder components per the diagram/layout.
 2. Connect ignition coil.
-3. Don't leave the output of the ignition coil flap around in the breeze! Place it near the ground of coil.
+3. Don't leave the output of the ignition coil flap around in the breeze! Place it near the ground of the coil.
 4. Connect power supply to observe sparks
    
 ## **WARNING: High Voltage!**
@@ -25,7 +25,5 @@ This circuit is dangerous.  Exercise caution.  Do not touch when powered.  Prope
 ## Disclaimer
 This project is provided as-is, without any warranty. The author is not responsible for any damage or injury resulting from the use or misuse of this design.  Use at your own risk.
 
-
 ## Contribute
-
 Contributions are welcome! Submit pull requests.
